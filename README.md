@@ -1,4 +1,4 @@
-# Semaforo
+# Semáforo
 Semaforo para automóviles y peatones en arduino. 
 [Descripción] 
 Se desarrolló un semaforo vehicular y peatonal con ayuda de una placa de Arduino. 
